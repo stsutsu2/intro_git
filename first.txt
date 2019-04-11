@@ -2,3 +2,4 @@
 ŠwK
 .git commit
 .git rm
+.git status
