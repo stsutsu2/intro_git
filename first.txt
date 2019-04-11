@@ -1,3 +1,4 @@
 —ûK
 ŠwK
 .git commit
+.git rm
